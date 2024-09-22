@@ -24,8 +24,6 @@ Offers the following functionality:
 
 ## Test Dapps :construction:
 
-Deployed for testing.
-
 Deployers Address: TBC.
 
 | Contract      | Address       | Network       |
