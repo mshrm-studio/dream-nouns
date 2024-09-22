@@ -1,6 +1,8 @@
 <p align="left">
   <img width="80" height="80" src="https://github.com/user-attachments/assets/b10e2e8a-d5b7-4aaf-9bc2-10d725a15cfe">
   <img width="80" height="80" src="https://github.com/user-attachments/assets/c227fa4f-42b3-44c8-8452-f12cb83e29a5">
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/f126bdca-8aa8-491a-a898-fb5b2cc32ea8">
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/f5e2ddca-abcd-46d2-8861-ffe8f4b5f3c6">
 </p>
 
 # Dream-Nouns :heart_eyes:
