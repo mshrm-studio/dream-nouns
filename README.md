@@ -40,7 +40,7 @@ Deployers Address: TBC.
     - A spawner address (where funds get sent)
     - An address to manage the minimum deposit (an additional authority)
 2. Deploy contract
-3. Call populatePermutationSelections()
+3. Call populateSelectionPermutations()
 
 ### Notes :clipboard:
 
