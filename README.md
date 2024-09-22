@@ -113,7 +113,7 @@ Dream Contract->Nouns Auction House Contract: Settle and create new auction (sel
 Dream Contract->Dream Contract: Fire event logging these actions
 -->
 
-## How This Can Be Used :sparkles:
+## How This Can Be Used :crystal_ball:
 
 <!--![image](https://github.com/user-attachments/assets/62028464-c6ce-4443-8ce2-2babbebb7767)-->
 <p align="center">
