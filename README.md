@@ -48,7 +48,7 @@ Deployers Address: TBC.
 
 ## Ecosystem :arrows_clockwise:
 
-![Untitled (1)](https://github.com/user-attachments/assets/b507095b-8fd0-4470-8a0b-e1ab6e3d601d)
+![Untitled (1)](https://github.com/user-attachments/assets/7dd66f43-b9b9-4e6e-92d4-f5c5a48ba3f8)
 
 ## Add Dream Noun :new:
 
