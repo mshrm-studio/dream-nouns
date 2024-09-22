@@ -30,7 +30,7 @@ Deployers Address: [0xA0c2b2319ddD27238dde7a2b525cF9054197e88C](https://sepolia.
 | ------------- | ------------- | ------------- |
 | Dream Nouns | [0x68e229d0244bde434c0c9da1df486c7d15007fbe](https://sepolia.etherscan.io/address/0x68e229d0244bde434c0c9da1df486c7d15007fbe#code)     | Sepolia       | 
 
-## Deploy/Setup Steps :construction_worker:
+### Test Deploy/Setup Steps :construction_worker:
 
 1. Have the following addresses ready:
     - The nouns token address: [0x4C4674bb72a096855496a7204962297bd7e12b85](https://sepolia.etherscan.io/address/0x4C4674bb72a096855496a7204962297bd7e12b85)
