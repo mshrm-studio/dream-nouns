@@ -1,2 +1,79 @@
-# dream-nouns
-Dream Nouns Project
+# Dream-Nouns
+
+A way to get a little extra chance for your most desired Noun to get generated.
+
+## Contracts
+
+### Dream Nouns Contract
+
+A token issued upon stake and burned with the withdrawal of that stake
+
+## Test Dapps
+
+Deployed for testing.
+
+Deployers Address: TBC.
+
+| Contract      | Address       | Network       |
+| ------------- | ------------- | ------------- |
+| Dream Nouns | [TBC.](https://sepolia.etherscan.io/address/0xcdad459feee277dfee22856d763feb55edf963ba#code)     | Sepolia       | 
+
+## Deploy/Setup Steps
+
+1. Have the following addresses ready:
+    - The nouns token address
+    - The nouns descriptor address
+    - The nouns seeder address
+    - The nouns auction house address
+    - A spawner address (where funds get sent)
+    - An address to manage the minimum deposit (an additional authority)
+2. Deploy contract
+3. Call populatePermutationSelections()
+
+### Notes
+
+- The Dream Nouns contract requires deployment using optimization with 2k runs
+
+## Ecosystem
+
+![Untitled (1)](https://github.com/user-attachments/assets/b507095b-8fd0-4470-8a0b-e1ab6e3d601d)
+
+## Add Dream Noun
+
+![image](https://github.com/user-attachments/assets/d3b5b431-e3e1-4575-b2d3-3cb97960a8d1)
+
+### Definition
+
+title Add Dream Noun
+
+User->Dream Contract: Send deposit and call add dream noun with desired traits
+Dream Contract->Dream Contract: Check deposit has been matched
+Dream Contract->Nouns Descriptor Contract: Get head,body,background,accessory and glasses counts
+Nouns Descriptor Contract->Dream Contract:Return counts
+Dream Contract->Dream Contract: Validate the values for traits are in bounds
+Dream Contract->Dream Contract: Turn the dream noun into a key ie. "x-12-1-x-4"
+Dream Contract->Dream Contract: Check the key does not already have a match (someone elses open request)
+Dream Contract->Spawn Manager: Move deposit to fund manager
+Dream Contract->Dream Contract: Save dream noun & index to user
+Dream Contract->Dream Contract: Fire successful dream noun created event
+
+## How This Can Be Used
+
+![image](https://github.com/user-attachments/assets/62028464-c6ce-4443-8ce2-2babbebb7767)
+
+### Definition
+title Process Flow
+
+Job->Dream Contract: Is Noun o'clock 
+Dream Contract->Nouns Auction Contract: Is Noun o'clock
+Nouns Auction Contract->Dream Contract: Return true
+Dream Contract->Job: Return true 
+Job->Dream Contract: Is there a match 
+Dream Contract->Job: Return true, block number estimated from and the noun traits to be minted
+Job->Dream Contract: Settle for block 
+Dream Contract->Dream Contract: Is the block number the same as provided 
+Dream Contract->Dream Contract: Remove mapped match + update users dream request 
+Dream Contract->Nouns Auction Contract: Call settle & create new auction 
+Nouns Auction Contract->Nouns Auction Contract: Settle 
+Nouns Auction Contract->Nouns Auction Contract: Create new auction 
+Dream Contract->Job: Return
