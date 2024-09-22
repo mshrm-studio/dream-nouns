@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/b10e2e8a-d5b7-4aaf-9bc2-10d725a15cfe)
+<p align="center">
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/b10e2e8a-d5b7-4aaf-9bc2-10d725a15cfe">
+</p>
 
 # Dream-Nouns :heart_eyes:
 
