@@ -1,14 +1,21 @@
-# Dream-Nouns
+# Dream-Nouns :heart_eyes:
 
-A way to get a little extra chance for your most desired Noun to get generated.
+A way to get a little extra chance for your most desired Noun to get generated. 
 
-## Contracts
+## Contracts :page_facing_up:
 
-### Dream Nouns Contract
+### Dream Nouns Contract 
 
-A token issued upon stake and burned with the withdrawal of that stake
+Offers the following functionality:
 
-## Test Dapps
+- Allows users to be able to upload their dream noun (either all 5 traits can be provided or as little as only 1)
+- Allows us to be able to try to find a registered matched dream noun at noun o'clock
+- Allows us to settle and create new auction for a desired noun if there is a match
+- Allows for the get of dream noun data
+- Allows for the get of dream noun probability
+- Allows for the get of when it is noun o'clock 
+
+## Test Dapps :construction:
 
 Deployed for testing.
 
@@ -18,7 +25,7 @@ Deployers Address: TBC.
 | ------------- | ------------- | ------------- |
 | Dream Nouns | [TBC.](https://sepolia.etherscan.io/address/0xcdad459feee277dfee22856d763feb55edf963ba#code)     | Sepolia       | 
 
-## Deploy/Setup Steps
+## Deploy/Setup Steps :construction_worker:
 
 1. Have the following addresses ready:
     - The nouns token address
@@ -30,15 +37,15 @@ Deployers Address: TBC.
 2. Deploy contract
 3. Call populatePermutationSelections()
 
-### Notes
+### Notes :clipboard:
 
 - The Dream Nouns contract requires deployment using optimization with 2k runs
 
-## Ecosystem
+## Ecosystem :arrows_clockwise:
 
 ![Untitled (1)](https://github.com/user-attachments/assets/b507095b-8fd0-4470-8a0b-e1ab6e3d601d)
 
-## Add Dream Noun
+## Add Dream Noun :new:
 
 ![image](https://github.com/user-attachments/assets/d3b5b431-e3e1-4575-b2d3-3cb97960a8d1)
 
@@ -57,7 +64,7 @@ Dream Contract->Spawn Manager: Move deposit to fund manager
 Dream Contract->Dream Contract: Save dream noun & index to user
 Dream Contract->Dream Contract: Fire successful dream noun created event
 
-## How This Can Be Used
+## How This Can Be Used :sparkles:
 
 ![image](https://github.com/user-attachments/assets/62028464-c6ce-4443-8ce2-2babbebb7767)
 
