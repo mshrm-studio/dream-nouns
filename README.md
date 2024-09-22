@@ -33,10 +33,10 @@ Deployers Address: TBC.
 ## Deploy/Setup Steps :construction_worker:
 
 1. Have the following addresses ready:
-    - The nouns token address
-    - The nouns descriptor address
-    - The nouns seeder address
-    - The nouns auction house address
+    - The [nouns token address]()
+    - The [nouns descriptor address]()
+    - The [nouns seeder address]()
+    - The [nouns auction house address]()
     - A spawner address (where funds get sent)
     - An address to manage the minimum deposit (an additional authority)
 2. Deploy contract
