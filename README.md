@@ -72,7 +72,7 @@ Dream Contract->Dream Contract: Save dream noun & index to user
 Dream Contract->Dream Contract: Fire successful dream noun created event
 -->
 
-### Try To Match Dream Noun
+### Try To Match Dream Noun :mag_right:
 
 <!-- ![image](https://github.com/user-attachments/assets/ab4696b3-2d3a-440b-bc98-aa4814ac9670)-->
 <p align="center">
@@ -91,7 +91,7 @@ Dream Contract->Dream Contract: Try to match traits key
 Dream Contract->Job: Return match and block number the match was generated on if matched 
 -->
 
-### Spawn Dream Noun
+### Spawn Dream Noun :zap:
 
 <!-- ![image](https://github.com/user-attachments/assets/b9f83bad-d84a-4373-9949-07e808852ffa)-->
 <p align="center">
