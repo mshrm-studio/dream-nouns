@@ -28,7 +28,7 @@ Deployers Address: TBC.
 
 | Contract      | Address       | Network       |
 | ------------- | ------------- | ------------- |
-| Dream Nouns | [TBC.](https://sepolia.etherscan.io/address/0xcdad459feee277dfee22856d763feb55edf963ba#code)     | Sepolia       | 
+| Dream Nouns | [0x68e229d0244bde434c0c9da1df486c7d15007fbe](https://sepolia.etherscan.io/address/0x68e229d0244bde434c0c9da1df486c7d15007fbe#code)     | Sepolia       | 
 
 ## Deploy/Setup Steps :construction_worker:
 
