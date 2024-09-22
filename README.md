@@ -54,8 +54,7 @@ Deployers Address: TBC.
 
 ![image](https://github.com/user-attachments/assets/d3b5b431-e3e1-4575-b2d3-3cb97960a8d1)
 
-### Definition
-
+<!-- 
 title Add Dream Noun
 
 User->Dream Contract: Send deposit and call add dream noun with desired traits
@@ -68,12 +67,13 @@ Dream Contract->Dream Contract: Check the key does not already have a match (som
 Dream Contract->Spawn Manager: Move deposit to fund manager
 Dream Contract->Dream Contract: Save dream noun & index to user
 Dream Contract->Dream Contract: Fire successful dream noun created event
+-->
 
 ## How This Can Be Used :sparkles:
 
 ![image](https://github.com/user-attachments/assets/62028464-c6ce-4443-8ce2-2babbebb7767)
 
-### Definition
+<!--
 title Process Flow
 
 Job->Dream Contract: Is Noun o'clock 
@@ -89,3 +89,4 @@ Dream Contract->Nouns Auction Contract: Call settle & create new auction
 Nouns Auction Contract->Nouns Auction Contract: Settle 
 Nouns Auction Contract->Nouns Auction Contract: Create new auction 
 Dream Contract->Job: Return
+-->
