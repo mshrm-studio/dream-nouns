@@ -7,7 +7,7 @@
 
 # Dream-Nouns :heart_eyes:
 
-A way to get a little extra chance for your most desired Noun to get generated. 
+A way to boost your chances for your most desired Noun to get put up for auction. 
 
 ## Contracts :page_facing_up:
 
