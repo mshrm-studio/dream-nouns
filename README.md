@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b10e2e8a-d5b7-4aaf-9bc2-10d725a15cfe)
+
 # Dream-Nouns :heart_eyes:
 
 A way to get a little extra chance for your most desired Noun to get generated. 
